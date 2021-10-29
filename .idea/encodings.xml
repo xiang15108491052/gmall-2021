@@ -2,5 +2,63 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/gmall-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/config" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/java/com/atguigu/utils" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/Controller.java.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/Dao.java.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/Dao.xml.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/Entity.java.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/Service.java.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/ServiceImpl.java.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/add-or-update.vue.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/index.vue.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-generator/src/main/resources/template/menu.sql.vm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-oms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-oms/src/main/java/com/xiang/gmall/oms/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-oms/src/main/java/com/xiang/gmall/oms/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-oms/src/main/java/com/xiang/gmall/oms/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-oms/src/main/java/com/xiang/gmall/oms/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-oms/src/main/resources/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/java/com/xiang/gmall/pms/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-pms/src/main/resources/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/java/com/xiang/gmall/sms/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-sms/src/main/resources/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/java/com/xiang/gmall/ums/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-ums/src/main/resources/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-wms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gmall-wms/src/main/java/com/xiang/gmall/wms/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-wms/src/main/java/com/xiang/gmall/wms/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-wms/src/main/java/com/xiang/gmall/wms/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-wms/src/main/java/com/xiang/gmall/wms/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gmall-wms/src/main/resources/mapper" charset="GBK" />
   </component>
 </project>
